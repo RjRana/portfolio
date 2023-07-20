@@ -19,6 +19,7 @@ const Skills = () => {
           <Skill label="HTML" value={80} icon="html5/html5-original.svg" />
           <Skill label="CSS" value={80} icon="css3/css3-original.svg" />
           <Skill label="JavaScript/ES6" value={75} icon="javascript/javascript-original.svg" />
+          <Skill label="JavaScript/ES6" value={75} icon="javascript/javascript-original.svg" />
           <Skill label="Vue" value={78} icon="vuejs/vuejs-original.svg" marginBottom={0} />
         </Paper>
 
